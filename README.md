@@ -1,16 +1,213 @@
+<p align="center">
+  <img src="./assets/Final_Banner_Image.jpg" alt="Inamul Haque Inam - AI-Native Software Engineer & Business Strategist" width="100%">
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sdfds) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdafds) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sdf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@inam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inamulhaqueinam5@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://inamul-haque-inam-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-08090D?style=for-the-badge&logo=vercel&logoColor=06B6D4" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/inamulhaqueinam5/"><img src="https://img.shields.io/badge/LinkedIn-08090D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="mailto:inamulhaqueinam5@gmail.com"><img src="https://img.shields.io/badge/Email_Me-08090D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-08090D?style=for-the-badge&logo=googlemaps&logoColor=10B981" alt="Location">
+  <img src="https://img.shields.io/badge/Status-Available_Full--Time-08090D?style=for-the-badge&logo=githubactions&logoColor=10B981" alt="Availability">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=inamulhaqueinam5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📌 Executive Overview
+
+I am an agile **AI-Native Software Engineer and Business Strategist** operating at the intersection of scalable software systems, published data science research and high-growth corporate operations.
+
+Rather than fitting into an isolated developer silo, I approach engineering challenges with a hybrid mindset:
+* **The Builder:** Full-stack systems architecture (Next.js, TypeScript, React, Node.js and PostgreSQL), client-side optimization and production platforms.
+* **The Scientist:** Peer-reviewed scientific publications across IEEE and Elsevier platforms focusing on Explainable AI (SHAP), clinical predictive modeling and hybrid feature optimization.
+* **The Strategist:** International remote operational management (Rectangle International AB, Sweden), B2B sales pipeline architecture (HubSpot, LinkedIn Sales Navigator), executive KPI reporting and process optimization.
+
+---
+
+### ⚡ Core Technical & Strategic Arsenal
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Full-Stack Software Engineering</h4>
+      <ul>
+        <li><b>Languages:</b> TypeScript, JavaScript, Python and SQL</li>
+        <li><b>Frontend:</b> Next.js, React.js, Tailwind CSS and Playwright E2E</li>
+        <li><b>Backend & Systems:</b> Node.js, Express.js, RESTful APIs and Zod Validation</li>
+        <li><b>Databases & ORM:</b> PostgreSQL, MongoDB and Prisma ORM</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Applied AI & Machine Learning</h4>
+      <ul>
+        <li><b>Interpretability:</b> Explainable AI (XAI / SHAP) and Clinical Biomarker Mapping</li>
+        <li><b>Machine Learning:</b> Predictive Modeling, Ensemble Learning and Scikit-Learn</li>
+        <li><b>Deep Learning:</b> Convolutional Architectures and Attention-Gated Fusion</li>
+        <li><b>Data Engineering:</b> Pandas, NumPy and Statistical Data Analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic Workflows & Automation</h4>
+      <ul>
+        <li><b>Agentic Tooling:</b> Anthropic Claude Code in Action and Skill Suites</li>
+        <li><b>Process Automation:</b> Intelligent Process Automation (IPA) Pipelines</li>
+        <li><b>Execution Integrity:</b> Deterministic Execution and Tool Orchestration</li>
+        <li><b>Developer Experience:</b> GitHub Actions CI/CD and Context-Aware Tooling</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Business Strategy & Operations</h4>
+      <ul>
+        <li><b>CRM & Prospecting:</b> HubSpot Sales Hub Certified and LinkedIn Sales Navigator</li>
+        <li><b>Operations:</b> International Workflow QA (Sweden) and SLA Optimization</li>
+        <li><b>Analytics:</b> Advanced Excel (Financial Modeling), Power BI and Tableau</li>
+        <li><b>Methodology:</b> Agile/Scrum Delivery and 102 WPM Typing Speed</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Production Systems
+
+<table>
+  <thead>
+    <tr>
+      <th>System</th>
+      <th>Architectural Highlights & Impact</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>SkillBridge</b><br><sub>Full-Stack Tutoring Platform</sub></td>
+      <td>
+        • Engineered a 3-role RBAC architecture (Student, Tutor and Admin)<br>
+        • Built conflict-free session scheduling algorithms and telemetry dashboards<br>
+        • Full-stack Zod type validation with Next.js, PostgreSQL and Prisma ORM
+      </td>
+      <td>
+        <a href="https://skillbridge-frontend-mocha.vercel.app/"><b>Live Demo</b></a><br>
+        <a href="https://github.com/inamulhaqueinam5/skillbridge-frontend"><b>Codebase</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>OneFit Resume</b><br><sub>Document Engine & Layout Optimizer</sub></td>
+      <td>
+        • Single-source Master-to-Derivative structured data model<br>
+        • Zero-cost client-side single-page A4 rendering engine with stepped compression<br>
+        • Deterministic Mammoth/Cheerio DOCX parsing and drag-and-drop customization
+      </td>
+      <td>
+        <a href="https://onefit-resume.vercel.app/"><b>Live Demo</b></a><br>
+        <a href="https://github.com/inamulhaqueinam5/OneFit-Resume"><b>Codebase</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Executive Banking Portfolio</b><br><sub>Corporate Web Application</sub></td>
+      <td>
+        • Architected with Domain-Driven Design (DDD) principles in Next.js 14<br>
+        • Dual-mode theme tokens, interactive career timelines and 24+ skill matrices<br>
+        • Automated end-to-end regression validation with Playwright test suites
+      </td>
+      <td>
+        <a href="https://zannat-ara-nishat.netlify.app"><b>Live Demo</b></a><br>
+        <a href="https://github.com/inamulhaqueinam5/client-banking-portfolio"><b>Codebase</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Social Media Posting App</b><br><sub>Scalable Media Feed Platform</sub></td>
+      <td>
+        • Scalable full-stack feed platform built on React 19, Node.js and Express<br>
+        • Asynchronous ImageKit CDN offloading for ultra-low latency uploads<br>
+        • MongoDB data persistence and containerized cloud deployment
+      </td>
+      <td>
+        <a href="https://github.com/inamulhaqueinam5/social-media-posting-app"><b>Codebase</b></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🔬 Peer-Reviewed Research & Publications
+
+<table>
+  <thead>
+    <tr>
+      <th>Publication Title</th>
+      <th>Venue / Index</th>
+      <th>Methodology & Key Results</th>
+      <th>DOI / Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Explainable Ensemble Learning and Hybrid Feature Selection for Robust Low Birth Weight Prediction</b></td>
+      <td>IEEE BECITHCON 2025</td>
+      <td>Soft-Voting Ensemble (ExtraTrees + CatBoost) on 1,863 BDHS records; achieved 94.54% Accuracy with full SHAP clinical interpretability.</td>
+      <td><a href="https://doi.org/10.1109/BECITHCON69222.2025.11504281"><b>10.1109/BECITHCON</b></a></td>
+    </tr>
+    <tr>
+      <td><b>AIDPCP: An Adaptive Intelligent Data Preprocessing and Clustering Pipeline for Obesity Prediction with Explainable AI</b></td>
+      <td>Measurement: Digitalization, Elsevier (2026)</td>
+      <td>Formulated an adaptive preprocessing and clustering pipeline resolving data leakage and class imbalance in tabular clinical data.</td>
+      <td><a href="https://doi.org/10.1016/j.meadig.2026.100049"><b>10.1016/j.meadig</b></a></td>
+    </tr>
+    <tr>
+      <td><b>A Novel Hybrid Feature Selection and Ensemble Learning Approach for Mortality Risk Classification in Hepatitis B Patients: An Explainable AI Study</b></td>
+      <td>IEEE ICCIT 2025</td>
+      <td>Biomarker feature selection and gradient boosting ensemble (XGBoost, CatBoost and LightGBM); reached 95.08% Accuracy and 93% F1-score.</td>
+      <td><a href="https://doi.org/10.1109/ICCIT68739.2025.11491320"><b>10.1109/ICCIT</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Explainable AI-Driven Ensemble Learning Framework for PCOS Diagnosis Using AIM-PDCF and QuantumGraphRFE Feature Selection</b></td>
+      <td>IEEE ICCIT 2025</td>
+      <td>Proposed AIM-PDCF ensemble combined with QuantumGraphRFE to identify critical metabolic biomarkers with SHAP clinical explanations.</td>
+      <td><a href="https://doi.org/10.1109/ICCIT68739.2025.11491104"><b>10.1109/ICCIT</b></a></td>
+    </tr>
+    <tr>
+      <td><b>DPAFF-Net: Dual-Path Adaptive Feature Fusion Network for Clinical-Grade Tuberculosis Screening from Chest Radiographs</b></td>
+      <td>The Journal of Engineering</td>
+      <td>Dual-path architecture uniting EfficientNet-B0 and Shallow CNN with Attention-Gated PCA fusion for chest radiograph screening.</td>
+      <td><i>Under Review</i></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📜 Verified Professional Certifications
+
+* **Anthropic:** Claude Code in Action (Feb 2026) • [Verify](https://verify.skilljar.com/c/62b23fq7qyej)
+* **AI Hero:** Skills Workflow Course (Instructor: Matt Pocock) (Aug 2026)
+* **HubSpot Academy:** HubSpot Sales Hub Software Certified (Sep 2026 - Oct 2027) • [Verify](https://app-na2.hubspot.com/academy/achievements/n7k9k972/en/1/inamul-haque-inam/hubspot-sales-hub-software-certified)
+* **HubSpot Academy:** Inbound Sales Certified (Sep 2026 - Oct 2028) • [Verify](https://app-na2.hubspot.com/academy/achievements/hbhznp3l/en/1/inamul-haque-inam/inbound-sales-certified)
+* **LinkedIn Sales Solutions:** Sales Navigator Essentials (Sep 2026) • [Verify](https://verify.skilljar.com/c/b947gbhsm6sw)
+* **Udemy:** The Complete SQL Bootcamp: Go from Zero to Hero (Oct 2025) • [Verify](https://ude.my/UC-d470007e-d7c1-4ab2-8223-4b0b13333c3b)
+* **Udemy:** Agile Crash Course: Agile Project Management & Scrum Delivery (Oct 2025)
+* **IEEE CS SEU SBC:** LaTeX Unlocked Research Writing Workshop (2025)
+
+---
+
+### 📊 GitHub Activity & Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=inamulhaqueinam5&show_icons=true&theme=tokyonight&bg_color=08090D&title_color=06B6D4&text_color=E2E8F0&icon_color=10B981&border_color=1E293B&hide_border=false" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inamulhaqueinam5&layout=compact&theme=tokyonight&bg_color=08090D&title_color=06B6D4&text_color=E2E8F0&border_color=1E293B&hide_border=false" alt="Top Languages" height="165">
+</p>
+
+---
+
+### 📬 Connect & Collaborate
+
+I am actively exploring high-impact opportunities across **Software Engineering**, **AI Solutions**, **Management Trainee Officer (MTO) Programs** and **Technology Consulting**.
+
+<p align="center">
+  <a href="https://inamul-haque-inam-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=08090D" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/inamulhaqueinam5/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:inamulhaqueinam5@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-10B981?style=for-the-badge&logo=gmail&logoColor=08090D" alt="Email"></a>
+</p>
