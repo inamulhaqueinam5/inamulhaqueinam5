@@ -118,14 +118,15 @@ Rather than fitting into an isolated developer silo, I approach engineering chal
       </td>
     </tr>
     <tr>
-      <td><b>Social Media Posting App</b><br><sub>Scalable Media Feed Platform</sub></td>
+      <td><b>AI-Native Portfolio Platform</b><br><sub>Interactive Personal Engineering Hub</sub></td>
       <td>
-        • Scalable full-stack feed platform built on React 19, Node.js and Express<br>
-        • Asynchronous ImageKit CDN offloading for ultra-low latency uploads<br>
-        • MongoDB data persistence and containerized cloud deployment
+        • Architected with Next.js App Router, TypeScript and Tailwind CSS<br>
+        • High-performance interactive research telemetry, publication showcase and dark theme tokens<br>
+        • Production Vercel edge deployment with automated CI/CD and zero layout shift
       </td>
       <td>
-        <a href="https://github.com/inamulhaqueinam5/social-media-posting-app"><b>Codebase</b></a>
+        <a href="https://inamul-haque-inam-portfolio.vercel.app/"><b>Live Demo</b></a><br>
+        <a href="https://github.com/inamulhaqueinam5/inamul-haque-inam-portfolio"><b>Codebase</b></a>
       </td>
     </tr>
   </tbody>
