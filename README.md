@@ -182,19 +182,6 @@ Beyond core engineering, I bring hands-on experience in remote international ope
 
 ---
 
-### 📜 Verified Professional Certifications
-
-* **Anthropic:** Claude Code in Action (Feb 2026) • [Verify](https://verify.skilljar.com/c/62b23fq7qyej)
-* **AI Hero:** Skills Workflow Course (Instructor: Matt Pocock) (Aug 2026)
-* **HubSpot Academy:** HubSpot Sales Hub Software Certified (Sep 2026 - Oct 2027) • [Verify](https://app-na2.hubspot.com/academy/achievements/n7k9k972/en/1/inamul-haque-inam/hubspot-sales-hub-software-certified)
-* **HubSpot Academy:** Inbound Sales Certified (Sep 2026 - Oct 2028) • [Verify](https://app-na2.hubspot.com/academy/achievements/hbhznp3l/en/1/inamul-haque-inam/inbound-sales-certified)
-* **LinkedIn Sales Solutions:** Sales Navigator Essentials (Sep 2026) • [Verify](https://verify.skilljar.com/c/b947gbhsm6sw)
-* **Udemy:** The Complete SQL Bootcamp: Go from Zero to Hero (Oct 2025) • [Verify](https://ude.my/UC-d470007e-d7c1-4ab2-8223-4b0b13333c3b)
-* **Udemy:** Agile Crash Course: Agile Project Management & Scrum Delivery (Oct 2025)
-* **IEEE CS SEU SBC:** LaTeX Unlocked Research Writing Workshop (2025)
-
----
-
 ### 📊 GitHub Activity & Telemetry
 
 <p align="center">
