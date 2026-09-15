@@ -18,7 +18,7 @@ I am an agile **AI-Native Software Engineer and Business Strategist** operating 
 
 Rather than fitting into an isolated developer silo, I approach engineering challenges with a hybrid mindset:
 * **The Builder:** Full-stack systems architecture (Next.js, TypeScript, React, Node.js and PostgreSQL), client-side optimization and production platforms.
-* **The Scientist:** Peer-reviewed scientific publications across IEEE and Elsevier platforms focusing on Explainable AI (SHAP), clinical predictive modeling and hybrid feature optimization.
+* **The Scientist:** Peer-reviewed scientific publications across IEEE and Elsevier platforms focusing on Explainable AI , clinical predictive modeling and hybrid feature optimization.
 * **The Strategist:** International remote operational management (Rectangle International AB, Sweden), B2B sales pipeline architecture (HubSpot, LinkedIn Sales Navigator), executive KPI reporting and process optimization.
 
 ---
