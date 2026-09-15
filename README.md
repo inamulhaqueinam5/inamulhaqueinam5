@@ -209,7 +209,7 @@ Beyond core engineering, I bring hands-on experience in remote international ope
 
 ### 📬 Connect & Collaborate
 
-I am actively exploring high-impact opportunities across **Software Engineering**, **AI Solutions**, **Management Trainee Officer (MTO) Programs** and **Technology Consulting**.
+Open to **Software Engineering**, **AI**, **Business Development** and **Techno-Commercial** roles. Reach out directly at [inamulhaqueinam5@gmail.com](mailto:inamulhaqueinam5@gmail.com).
 
 <p align="center">
   <a href="https://inamul-haque-inam-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=08090D" alt="Portfolio"></a>
