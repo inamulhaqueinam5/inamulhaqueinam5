@@ -14,11 +14,12 @@
 
 ### 📌 Executive Overview
 
-I am an agile **AI-Native Software Engineer and Business Strategist** operating at the intersection of scalable software systems, published data science research and high-growth corporate operations.
+I am an **AI-native software engineer** operating at the convergence of full-stack development, agentic automation and strategic business impact. My core focus centers on architecting scalable web applications across the MERN stack, Next.js, TypeScript and PostgreSQL, alongside designing deterministic agentic workflows and intelligent process automation.
 
-Rather than fitting into an isolated developer silo, I approach engineering challenges with a hybrid mindset:
+Beyond core engineering, I bring hands-on experience in remote international operations (Rectangle International AB, Sweden), B2B business development and CRM pipeline architecture. My background also includes authoring peer-reviewed machine learning research across IEEE and Elsevier, grounding my technical and operational execution in deep analytical rigor.
+
 * **The Builder:** Full-stack systems architecture (Next.js, TypeScript, React, Node.js and PostgreSQL), client-side optimization and production platforms.
-* **The Scientist:** Peer-reviewed scientific publications across IEEE and Elsevier platforms focusing on Explainable AI , clinical predictive modeling and hybrid feature optimization.
+* **The Scientist:** Peer-reviewed scientific publications across IEEE and Elsevier platforms focusing on Explainable AI (SHAP), clinical predictive modeling and hybrid feature optimization.
 * **The Strategist:** International remote operational management (Rectangle International AB, Sweden), B2B sales pipeline architecture (HubSpot, LinkedIn Sales Navigator), executive KPI reporting and process optimization.
 
 ---
