@@ -196,8 +196,11 @@ Rather than fitting into an isolated developer silo, I approach engineering chal
 ### 📊 GitHub Activity & Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=inamulhaqueinam5&show_icons=true&theme=tokyonight&bg_color=08090D&title_color=06B6D4&text_color=E2E8F0&icon_color=10B981&border_color=1E293B&hide_border=false" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inamulhaqueinam5&layout=compact&theme=tokyonight&bg_color=08090D&title_color=06B6D4&text_color=E2E8F0&border_color=1E293B&hide_border=false" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=inamulhaqueinam5&show_icons=true&theme=tokyonight&bg_color=08090D&title_color=06B6D4&text_color=E2E8F0&icon_color=10B981&border_color=1E293B&hide_border=false" alt="GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=inamulhaqueinam5&theme=tokyonight&background=08090D&border=1E293B&stroke=1E293B&ring=06B6D4&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=64748B" alt="GitHub Streak" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inamulhaqueinam5&layout=compact&theme=tokyonight&bg_color=08090D&title_color=06B6D4&text_color=E2E8F0&border_color=1E293B&hide_border=false" alt="Top Languages" height="165">
 </p>
 
 ---
